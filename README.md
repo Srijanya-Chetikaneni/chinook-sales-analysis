@@ -1,4 +1,4 @@
-﻿# 🎧 Chinook Sales & Revenue Analytics
+﻿# 🎧 Music Data Sales & Revenue Analytics
 
 A complete SQL‑based analysis of sales, revenue, customer behavior, and product performance using the Chinook digital music store dataset.
 
