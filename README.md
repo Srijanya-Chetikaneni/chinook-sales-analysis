@@ -59,7 +59,7 @@ You can rebuild the entire database from scratch using SQLite.
 
 Step 1 — Open SQLite
 ```sql
-sqlite3 chinook.sqlite
+sqlite3 dataset.sqlite
 ```
 Step 2 — Create All Tables
 ```sql
