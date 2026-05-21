@@ -1,9 +1,9 @@
 ﻿# 🎧 Music Data Sales & Revenue Analytics
 
-A complete SQL‑based analysis of sales, revenue, customer behavior, and product performance using the Chinook digital music store dataset.
+A complete SQL‑based analysis of sales, revenue, customer behavior, and product performance using the digital music store dataset.
 
 ## 📌 Project Overview
-This project explores the Chinook dataset to understand what drives revenue, which products perform best, and how customers behave.
+This project explores the  digital music store dataset to understand what drives revenue, which products perform best, and how customers behave.
 The analysis covers:
 - Revenue trends over time
 - Top‑selling tracks, genres, and artists
@@ -53,7 +53,7 @@ All insights are derived using SQL (SQLite) and presented in a structured, busin
 
 This project includes:
 - A Createtables.sql file
-- All CSV files containing the Chinook dataset
+- All CSV files containing the dataset
   
 You can rebuild the entire database from scratch using SQLite.
 
