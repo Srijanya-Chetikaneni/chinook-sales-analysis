@@ -67,9 +67,6 @@ SELECT ar.Name, SUM(il.UnitPrice * il.Quantity) As Revenue
 
 Top‑earning artists include U2, Iron Maiden, Led Zeppelin, and Deep Purple, all of which belong to high‑performing rock and metal genres. This consistency across tracks, genres, and artists highlights rock as the store’s strongest revenue driver. The long tail of artists with minimal revenue suggests opportunities for targeted marketing or curated playlists.
 
-### Query Output
-
-```text
 
 
 
